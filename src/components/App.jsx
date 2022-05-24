@@ -1,3 +1,10 @@
+import React from "react";
+import Section from "./Section/Section";
+import Feedback from "./Feedback/Feedback";
+import Statistics from "./Statistics/Statistics";
+import Notification from "./Notification/Notification";
+
+
 export const App = () => {
   return (
     <div
